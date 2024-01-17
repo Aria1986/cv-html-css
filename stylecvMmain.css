@@ -122,7 +122,7 @@ border-radius: 5%;
 	grid: auto-flow dense / 1fr 1fr 1fr auto;
 }
 .img_act{
-	width:15vw;
+	width:12vw;
 }
 #formulaire{
     background-color: rgba(246,179,70, 0.7);
